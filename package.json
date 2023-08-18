@@ -1,0 +1,20 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "uso de node y axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/jairLM/ch30-js09-nodejs.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "Jair",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
