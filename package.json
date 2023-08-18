@@ -4,7 +4,7 @@
   "description": "uso de node y axios",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hola\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "url": "https://github.com/jairLM/ch30-js09-nodejs.git"
@@ -15,6 +15,10 @@
   "author": "Jair",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
     "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
   }
 }
